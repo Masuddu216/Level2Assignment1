@@ -1,4 +1,4 @@
-1.  What are some differences between interfaces and types in TypeScript?
+------------------------------1.  What are some differences between interfaces and types in TypeScript?---------------------------
 
 Interface and type are the keywords of TypeScript which are used to define and customize data types in TypeScripts.
 
@@ -198,7 +198,7 @@ console.log(rect.getArea()); // Output: 50
 
 
 
-2. What is the use of the keyof keyword in TypeScript? Provide an example.
+-----------------------------2. What is the use of the keyof keyword in TypeScript? Provide an example.----------------------------
 
 In TypeScript, keyof is used to derive the keys of an object type as a union of string literals. 
 It is used in creating type-safe access to object properties.
@@ -220,7 +220,7 @@ console.log(getValue(user, "name"));
 
 
 
-3.What is the use of enums in TypeScript? Provide an example of a numeric and string enum.
+---------------------------------------3. What is the use of enums in TypeScript? Provide an example of a numeric and string enum.------------------------------
 
 
 In TypeScript, enums allow  to define a set of named constants, 
